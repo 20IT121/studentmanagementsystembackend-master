@@ -1,4 +1,5 @@
 package in.ac.charusat.studentmgmtsystem.config;
+
 import in.ac.charusat.studentmgmtsystem.filter.AuthTokenFilter;
 import net.bytebuddy.asm.Advice;
 import org.springframework.beans.factory.annotation.Autowired;
